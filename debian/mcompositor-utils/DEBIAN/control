@@ -1,0 +1,12 @@
+Package: mcompositor-utils
+Source: mcompositor
+Version: 1.1.35-1+0m8
+Architecture: armel
+Maintainer: Abdiel Janulgue <abdiel.janulgue@nokia.com>
+Installed-Size: 100
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libqtcore4 (>= 4.7.4~git20120327), libqtgui4 (>= 4.7.4~git20120327), libstdc++6 (>= 4.4.0), libx11-6 (>= 0), libxcomposite1 (>= 1:0.3-1), libxdamage1 (>= 1:1.1), libxext6 (>= 0), libxi6 (>= 0), libxrender1, mcetools, gconf2, aegis-dss-tools
+Suggests: python
+Section: x11
+Priority: extra
+Description: commandline tools for testing mcompositor
+Aegis-Manifest: included

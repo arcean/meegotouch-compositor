@@ -1,0 +1,136 @@
+warning: source ./src/images is not a readable file or directory... skipping.
+error: Tag file `qt.tag' does not exist or is not a file. Skipping it...
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 148) warning: documented function `Atom MCompAtoms::atoms' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 149) warning: documented function `MCompAtoms::randr_t MCompAtoms::randr' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 167) warning: no uniquely matching class member found for 
+  void MCompAtoms::init()
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 435) warning: no uniquely matching class member found for 
+  MCompositeManagerPrivate::MCompositeManagerPrivate(MCompositeManager *p)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 459) warning: documented function `MCompositeManagerPrivate::~MCompositeManagerPrivate' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 538) warning: documented function `void MCompositeManagerPrivate::prepare' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 580) warning: documented function `void MCompositeManagerPrivate::loadPlugin' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 595) warning: no matching class member found for 
+  int MCompositeManagerPrivate::loadPlugins(const QDir &dir)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 609) warning: no matching class member found for 
+  bool MCompositeManagerPrivate::needDecoration(MWindowPropertyCache *pc)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 630) warning: documented function `void MCompositeManagerPrivate::damageEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 647) warning: documented function `void MCompositeManagerPrivate::createEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 655) warning: documented function `void MCompositeManagerPrivate::destroyEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 683) warning: documented function `void MCompositeManagerPrivate::splashTimeout' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 708) warning: no matching class member found for 
+  void MCompositeManagerPrivate::propertyEvent(XPropertyEvent *e)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 842) warning: no matching class member found for 
+  Window MCompositeManagerPrivate::getLastVisibleParent(MWindowPropertyCache *pc)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 868) warning: documented function `Window MCompositeManagerPrivate::getTopmostApp' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 928) warning: documented function `MCompositeWindow * MCompositeManagerPrivate::getHighestDecorated' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 949) warning: documented function `bool MCompositeManagerPrivate::haveMappedWindow' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 960) warning: no matching class member found for 
+  bool MCompositeManagerPrivate::possiblyUnredirectTopmostWindow()
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1078) warning: documented function `void MCompositeManagerPrivate::unmapEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1160) warning: documented function `void MCompositeManagerPrivate::configureEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1207) warning: documented function `void MCompositeManagerPrivate::configureWindow' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1339) warning: documented function `MWindowPropertyCache * MCompositeManagerPrivate::getPropertyCache' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1357) warning: documented function `void MCompositeManagerPrivate::configureRequestEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1400) warning: documented function `void MCompositeManagerPrivate::mapRequestEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1627) warning: documented function `void MCompositeManagerPrivate::checkInputFocus' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1689) warning: documented function `void MCompositeManagerPrivate::dirtyStacking' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1699) warning: documented function `void MCompositeManagerPrivate::pingTopmost' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1725) warning: documented function `void MCompositeManagerPrivate::setCurrentApp' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1748) warning: documented function `void MCompositeManagerPrivate::fixZValues' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1792) warning: documented function `int MCompositeManagerPrivate::indexOfLastVisibleWindow' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1826) warning: documented function `bool MCompositeManagerPrivate::hasTransientVKB' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1838) warning: documented function `void MCompositeManagerPrivate::sendSyntheticVisibilityEventsForOurBabies' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1916) warning: documented function `void MCompositeManagerPrivate::setStatusbarVisibleProperty' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 1931) warning: no matching class member found for 
+  void MCompositeManagerPrivate::checkStacking(bool force_visibility_check, Time timestamp)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2083) warning: documented function `void MCompositeManagerPrivate::stackingTimeout' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2096) warning: documented function `bool MCompositeManagerPrivate::skipStartupAnim' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2144) warning: documented function `void MCompositeManagerPrivate::mapEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2348) warning: documented function `void MCompositeManagerPrivate::rootMessageEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2463) warning: documented function `void MCompositeManagerPrivate::clientMessageEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2561) warning: documented function `void MCompositeManagerPrivate::closeHandler' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2604) warning: documented function `void MCompositeManagerPrivate::setWindowStateForTransients' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2620) warning: documented function `void MCompositeManagerPrivate::lowerHandler' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2651) warning: documented function `void MCompositeManagerPrivate::restoreHandler' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2684) warning: documented function `void MCompositeManagerPrivate::onFirstAnimationStarted' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2691) warning: documented function `void MCompositeManagerPrivate::onAnimationsFinished' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2706) warning: documented function `void MCompositeManagerPrivate::setExposeDesktop' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2716) warning: documented function `void MCompositeManagerPrivate::activateWindow' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2769) warning: documented function `MWindowPropertyCache * MCompositeManagerPrivate::findLockScreen' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2778) warning: no uniquely matching class member found for 
+  void MCompositeManagerPrivate::displayOff(bool display_off)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2857) warning: documented function `void MCompositeManagerPrivate::callOngoing' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2880) warning: no uniquely matching class member found for 
+  void MCompositeManagerPrivate::setWindowState(Window w, int state, int level)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 2925) warning: no matching class member found for 
+  bool MCompositeManagerPrivate::x11EventFilter(XEvent *event, bool startup)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3030) warning: documented function `bool MCompositeManagerPrivate::processX11EventFilters' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3047) warning: documented function `void MCompositeManagerPrivate::keyEvent' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3062) warning: no matching class member found for 
+  QGraphicsScene * MCompositeManagerPrivate::scene()
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3067) warning: no matching class member found for 
+  void MCompositeManagerPrivate::redirectWindows()
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3130) warning: no matching file member found for 
+void MCompositeManagerPrivate::removeWindow(Window w)Possible candidates:
+  static void removeWindow(Window below, Window between, Window above, OrderedWindowStack &oldWindows, WindowOrder &bounds)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3460) warning: documented function `void MCompositeManagerPrivate::roughSort' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3473) warning: documented function `MCompositeWindow * MCompositeManagerPrivate::bindWindow' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3568) warning: documented function `void MCompositeManagerPrivate::addItem' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3593) warning: documented function `bool MCompositeManagerPrivate::updateNetClientList' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3625) warning: no matching class member found for 
+  void MCompositeManagerPrivate::iconifyApps()
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3647) warning: no matching class member found for 
+  void MCompositeManagerPrivate::positionWindow(Window w, bool on_top)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3761) warning: no matching class member found for 
+  void MCompositeManagerPrivate::enableCompositing()
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3769) warning: documented function `void MCompositeManagerPrivate::showOverlayWindow' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3815) warning: documented function `void MCompositeManagerPrivate::enableRedirection' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3839) warning: documented function `void MCompositeManagerPrivate::gotHungWindow' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3865) warning: documented function `void MCompositeManagerPrivate::takeScreenshot' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3876) warning: no matching class member found for 
+  void MCompositeManagerPrivate::exposeSwitcher()
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.cpp (row: 3910) warning: documented function `void MCompositeManagerPrivate::installX11EventFilter' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowshadereffect.cpp (row: 51) warning: documented function `MCompositeWindowShaderEffectPrivate::MCompositeWindowShaderEffectPrivate' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowshadereffect.cpp (row: 58) warning: no uniquely matching class member found for 
+  void MCompositeWindowShaderEffectPrivate::drawTexture(MTexturePixmapPrivate *render, const QTransform &transform, const QRectF &drawRect, qreal opacity)
+
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowshadereffect.cpp (row: 133) warning: documented function `const QVector< GLuint > & MCompositeWindowShaderEffect::fragmentIds' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcontextproviderwrapper.cpp (row: 13) warning: documented function `MContextProviderWrapperPrivate::MContextProviderWrapperPrivate' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mtexturefrompixmap_egl.cpp (row: 72) warning: documented function `EglResourceManager * MTexturePixmapPrivate::eglresource' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mtexturepixmapitem_egl.cpp (row: 84) warning: documented function `EglTextureManager * MTexturePixmapPrivate::texman' was not declared or defined.
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowgroup.h (row: 42) warning: Found unknown command `\cond'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowgroup.h (row: 53) warning: Found unknown command `\endcond'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.h (row: 154) warning: Found unknown command `\overridePluginPath'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.h (row: 155) warning: Found unknown command `\overridePluginPath'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.h (row: 156) warning: Found unknown command `\regularPluginDir'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositemanager.h (row: 189) warning: Found unknown command `\cw'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowgroup.h (row: 42) warning: Found unknown command `\cond'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowgroup.h (row: 53) warning: Found unknown command `\endcond'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowgroup.h (row: 53) warning: Found unknown command `\endcond'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowgroup.h (row: 42) warning: Found unknown command `\cond'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mcompositewindowshadereffect.cpp (row: 88) warning: expected whitespace after c command
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mdecoratorframe.h (row: 78) warning: Found unknown command `\cw'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mrestacker.cpp (row: 880) warning: Found unknown command `\newOrder'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mrestacker.cpp (row: 884) warning: Found unknown command `\state'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mrestacker.cpp (row: 888) warning: Found unknown command `\newOrder'
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mwindowpropertycache.h (row: 92) warning: argument 'window' of command @param is not found in the argument list of MWindowPropertyCache::MWindowPropertyCache()
+File: /home/tomek/powerpack/mcompositor/mcompositor-1.1.35/src/mwindowpropertycache.h (row: 312) warning: Found unknown command `\win'
+Problems running dot: exit code=127, command='dot', arguments='"/home/tomek/powerpack/mcompositor/mcompositor-1.1.35/doc/html/mcompmgrextensionfactory_8h__incl.dot" -Tpng -o "/home/tomek/powerpack/mcompositor/mcompositor-1.1.35/doc/html/mcompmgrextensionfactory_8h__incl.png" -Tcmapx -o "/home/tomek/powerpack/mcompositor/mcompositor-1.1.35/doc/html/mcompmgrextensionfactory_8h__incl.map"'

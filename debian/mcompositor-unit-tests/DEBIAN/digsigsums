@@ -1,0 +1,9 @@
+S 15 com.nokia.maemo H 40 2f2123a28525f1499f542cfa8c9810cd2e4fea52 R 43 usr/lib/mcompositor-unit-tests/ut_propcache
+S 15 com.nokia.maemo H 40 3f2d1423cccf033ce6d5c754fed366de8154925f R 47 usr/lib/mcompositor-unit-tests/ut_netClientList
+S 15 com.nokia.maemo H 40 4eeef85e9432fc2474289581d79ec8727c389028 R 42 usr/lib/mcompositor-unit-tests/ut_stacking
+S 15 com.nokia.maemo H 40 894aa5085aad71c03f8645b532980bd55dca7e0a R 45 usr/lib/mcompositor-unit-tests/ut_compositing
+S 15 com.nokia.maemo H 40 6140665d102796ed320b08c28edcead0f5d142c9 R 48 usr/lib/mcompositor-unit-tests/ut_restackwindows
+S 15 com.nokia.maemo H 40 d97f0e1b5c3d4f12f4dfc0e5fb3a851db89a1ea1 R 42 usr/lib/mcompositor-unit-tests/ut_closeapp
+S 15 com.nokia.maemo H 40 d79a2609cb05c24be53fbb5bcb00a6291884c3fe R 38 usr/lib/mcompositor-unit-tests/ut_anim
+S 15 com.nokia.maemo H 40 60591e3d619b414c15700c203e035f68a2fd321d R 44 usr/lib/mcompositor-unit-tests/ut_lockscreen
+S 15 com.nokia.maemo H 40 e3b5b3460160a5f7d81dab9934f3b77dce8ab678 R 46 usr/lib/mcompositor-unit-tests/ut_splashscreen

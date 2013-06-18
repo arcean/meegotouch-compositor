@@ -1,0 +1,13 @@
+Package: mcompositor-unit-tests
+Source: mcompositor
+Version: 1.1.35-1+0m8
+Architecture: armel
+Maintainer: Abdiel Janulgue <abdiel.janulgue@nokia.com>
+Installed-Size: 704
+Depends: libc6 (>= 2.4), libcontextprovider0 (>= 0.5.39+0m6), libcontextsubscriber0 (>= 0.5.39+0m6), libdbus-1-3 (>= 1.0.2), libgcc1 (>= 1:4.1.1), libqt4-dbus (>= 4.7.4~git20120327), libqt4-opengl (>= 4.7.4~git20120327), libqt4-test (>= 4.7.4~git20120327), libqt4-xml (>= 4.7.4~git20120327), libqtcore4 (>= 4.7.4~git20120327), libqtgui4 (>= 4.7.4~git20120327), libstdc++6 (>= 4.4.0), libx11-6 (>= 0), mcompositor (= 1.1.35-1+0m8), ci-testing
+Section: x11
+Priority: extra
+Description: mcompositor unit tests
+Aegis-Manifest: empty
+Maemo-Ci-Packages: mcompositor
+Maemo-Ci-Stage: fast

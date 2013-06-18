@@ -1,0 +1,5 @@
+S 15 com.nokia.maemo H 40 7776c5dcb11e93c3403c1b7ab741edd52d119627 R 19 usr/bin/windowstack
+S 15 com.nokia.maemo H 40 0abad7f7e101cd856fb26492669c7bc03526a7c7 R 21 usr/bin/manual-splash
+S 15 com.nokia.maemo H 40 d2b267a62a319345c68639f8ef19fc01c4b1ff2a R 17 usr/bin/windowctl
+S 15 com.nokia.maemo H 40 e8c90d40c8b42db8e8d2a40c5e19cc29c4f6c7f3 R 32 usr/bin/mcompositor-test-init.py
+S 15 com.nokia.maemo H 40 1c78f229e4c2a7c066317c36a76e24099e97e8b1 R 21 usr/bin/focus-tracker

@@ -1,0 +1,10 @@
+5d9b8a5f6fe8b599ecff25e1ebd5f326  usr/lib/mcompositor-unit-tests/ut_anim
+43de3baa591e80d1d29c056ef6e5e0a5  usr/lib/mcompositor-unit-tests/ut_closeapp
+803eb224c9b9af792eb62e22912da408  usr/lib/mcompositor-unit-tests/ut_compositing
+e21ee486f3e5d102c5fe0a53ba1b8692  usr/lib/mcompositor-unit-tests/ut_lockscreen
+a4980e1c5aae7537f88cb5a687b68d43  usr/lib/mcompositor-unit-tests/ut_netClientList
+0f1fa55b1e4e76be82ff471a5bab47a4  usr/lib/mcompositor-unit-tests/ut_propcache
+3cd265fe24ddae56f1218eb01d45c6d6  usr/lib/mcompositor-unit-tests/ut_restackwindows
+a564573fb3a614f3e91baa4fdf02a10b  usr/lib/mcompositor-unit-tests/ut_splashscreen
+03cba8f1af7170129ef0d1e9aaf7467a  usr/lib/mcompositor-unit-tests/ut_stacking
+b9ea46a8b251e6ea99acbbd4df08fa03  usr/share/mcompositor-unit-tests/tests.xml

@@ -1,0 +1,12 @@
+CaseName="fullscreen_apps_during_call_are_decorated"
+CaseRequirement="NONE"
+CaseTimeout="360"
+CaseDescription="Check that fullscreen apps during callare decorated.
+
+- Test steps
+	- simulate an ongoing call
+	- show a fullscreen application window
+	- the decorator is on top of it
+        - show a fullscreen application window that paints its statusbar
+- Post-conditions
+        - the decorator is not on top of it\n"

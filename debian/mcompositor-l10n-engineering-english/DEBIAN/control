@@ -1,0 +1,11 @@
+Package: mcompositor-l10n-engineering-english
+Source: mcompositor
+Version: 1.1.35-1+0m8
+Architecture: all
+Maintainer: Abdiel Janulgue <abdiel.janulgue@nokia.com>
+Installed-Size: 40
+Enhances: mcompositor
+Section: devel
+Priority: extra
+Description: Engineering English translations for mcompositor
+Aegis-Manifest: empty

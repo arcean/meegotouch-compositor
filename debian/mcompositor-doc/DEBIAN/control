@@ -1,0 +1,10 @@
+Package: mcompositor-doc
+Source: mcompositor
+Version: 1.1.35-1+0m8
+Architecture: all
+Maintainer: Abdiel Janulgue <abdiel.janulgue@nokia.com>
+Installed-Size: 3720
+Section: doc
+Priority: extra
+Description: API documentation for mcompositor
+Aegis-Manifest: empty

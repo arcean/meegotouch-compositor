@@ -1,0 +1,12 @@
+digraph G
+{
+  edge [fontname="FreeSans.ttf",fontsize="10",labelfontname="FreeSans.ttf",labelfontsize="10"];
+  node [fontname="FreeSans.ttf",fontsize="10",shape=record];
+  Node1 [label="MCompositeWindow",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled" fontcolor="black"];
+  Node1 -> Node2 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node2 [label="MCompositeWindowGroup",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_m_composite_window_group.html",tooltip="MCompositeWindowGroup allows a collection of windows to be rendered as a single texture."];
+  Node1 -> Node3 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node3 [label="MTexturePixmapItem",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_m_texture_pixmap_item.html"];
+  Node3 -> Node4 [dir=back,color="midnightblue",fontsize="10",style="solid",fontname="FreeSans.ttf"];
+  Node4 [label="MSplashScreen",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_m_splash_screen.html"];
+}
